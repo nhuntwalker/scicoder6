@@ -1,0 +1,56 @@
+This week's speakers:
+	- Ivelina Momcheva (Yale)
+	- John Parejko (Yale)
+	- Adrian Price-Whelan (Columbia)
+	- Erik Tollerund (Yale)
+
+Optimize your code
+	"We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil." - Donald Knuth
+	Write your code to work first. Optimize later
+
+Profiling:
+	Let the computer tell you where it spends most of its time
+
+Software Usability (UX)
+	"Don't Make Me Think." - Steve Krug
+	Basically, when someone's trying to use your product they want it to just work, be easily read, an be easily understood.
+
+Aims:
+	- Improving your work environemnt
+	- Good programming practices
+	- Show you how to design and program against a DB
+	- Start to separate "programming" from details of "syntax"
+	- Apply what you are learning to a real research project
+
+Languages
+	• Scripted
+		- The code you write is run by an interpreter, line by line
+		- Syntax errors are found when the interpreter hits that line
+		- The text file is the program
+		- Much faster to write and experiment in
+		- Slower than compiled languages
+		- Ex: python, perl, JS, shell
+
+	• Compiled
+		- The code you write must be compiled, e.g. turned into machine code
+		- Syntax errors wil prevent the program from being compiled
+		- Slower to develop (must compile, link, run)
+		- Programs are faster (generally, but not necessarily)
+		- Syntax is typically not very clean
+		- Good for low-level programming when you need fine control of memory or direct access to hardware
+		- Ex: C, C++, Fortran, Java
+
+========= Slides Sent; From here on just notes ===========
+Should really wean self off of sublime text. Should be able to execute code directly from the editor. Also should be aware of functions.
+
+Text Wrangler might be a good option. Also, consider using Komodo for big python projects (haven't really done any big ones yet but yeah).
+
+Evernote as an "everything box" for saving small snippets of information (code, reminders, urls, w/e); syncs across different devices
+
+Create a config file for ssh.
+
+Markdown: a markup langauge that is easy to read, even with the markup "code".
+	- http://mouapp.com as a markdown editor on mac
+	- consider using markdown to write the outline for apps instead of...word...
+	- plugin for quicklook to render markdown
+	- may or may not recognize tabs instead of spaces (4 spaces for "tabbed" indentation)
